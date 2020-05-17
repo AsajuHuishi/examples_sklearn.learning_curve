@@ -1,5 +1,5 @@
 ## Examples of sklearn.learning_curve
-These examples are applications on functions from sklearn.learning_curve module. It is based on 
+These examples are applications on functions from sklearn.learning_curve module. It is based on [Python机器学习入门: sklearn.learning_curve 训练结果可视化实例（完整代码）](https://blog.csdn.net/qq_36937684/article/details/105948980) and [Python机器学习可视化（二）sklearn.validation_curve选择超参数实例（完整代码）](https://blog.csdn.net/qq_36937684/article/details/106168001).
 
 |file name| use function|detail|
 |--|--|--|
